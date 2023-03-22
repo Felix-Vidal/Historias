@@ -1,0 +1,1 @@
+No aplicativo no icone de estacionamento o dono possui a possibilidade de escolher em qual dos estacionamentos ele quer altera o preço.
