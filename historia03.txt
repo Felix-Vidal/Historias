@@ -1,0 +1,10 @@
+Na página de controle de tráfego (funcionário), faço a opção de "Adicionar Veículo"
+    Ao acionar esse botão, é aberta uma aba com:
+        O mapeamento atual do estacionamento, 
+        Opções de selecionar uma vaga
+        Os campos a serem preenchidos do veículo (placa, tipo, titular, etc.),
+        O caregamento das fotos da placa automaticamente tiradas pela câmera na entrada e a opção de submeter essas fotos,
+        Opção de iniciar e encerrar o timer
+
+Na página inicial de visualização do funcionário, ele tem acesso a todas as vagas ocupadas e, ao selecionar uma delas:
+    Opção de efetuar o pagamento
