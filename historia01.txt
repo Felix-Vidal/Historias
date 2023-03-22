@@ -1,0 +1,7 @@
+Eu criaria:
+        Uma página disponível para edição apenas do responsável pela orrganização do território do estacionamento
+            Nessa aba, o responsável monta o mapeamento completo do estacionamento, assim como está no espaço físico
+
+        Duas páginas (permissão para o gerente e para o funcionário), onde:
+            Na página de funcionário, ele pode marcar as vagas como ocupadas e liberadas (esta, no momento do pagamento)
+            Na página disponível para o gerente, ele pode visualizar o mapeamento atual e terá as opções de histórico e pode fazer o acompanhamento dos lucros
