@@ -1,0 +1,1 @@
+Dentro do icone estacionamento ao clicar no estacionamento o dono pode escolher qual dos funcionarios cadastrados no sistema vai ser alocado para aquele estacionamento ou modificar o funcionario para outro estacionamento.
