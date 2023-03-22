@@ -1,5 +1,5 @@
 Eu criaria:
-        Uma página disponível para edição apenas do responsável pela orrganização do território do estacionamento
+        Uma página disponível para edição apenas do responsável pela organização do território do estacionamento
             Nessa aba, o responsável monta o mapeamento completo do estacionamento, assim como está no espaço físico
 
         Duas páginas (permissão para o gerente e para o funcionário), onde:
